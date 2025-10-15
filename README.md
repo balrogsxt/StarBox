@@ -2,6 +2,16 @@
 
 基于计算机图像视觉识别(YOLO、OCR)、模拟控制星痕共鸣进行自助采集等功能
 
+## 本软件不在任何地方进行售卖,更没有所谓的付费版本,请勿听信任何人的话,并且该软件不对外开放使用（并且仅限简体中文使用）下方是一个在Discord上尝试售卖20美元的人
+
+## This software is not sold anywhere, let alone a so-called paid version. Please don't listen to anyone, and the software is not open to the public (and is only available in simplified Chinese). Below is a person trying to sell it for US$20 on Discord
+
+<div align="left">
+    <img src="./Assets/16601da6-ab6b-4692-8ad1-e47f4f80cc30.png" height="300">
+</div>
+
+
+# 展示
 <div align="center">
     <img src="./Assets/client.png#pic_center" width="700">
 </div>
