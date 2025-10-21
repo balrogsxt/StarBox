@@ -2,16 +2,10 @@
 
 基于计算机图像视觉识别(YOLO、OCR)、模拟控制星痕共鸣进行自助采集等功能
 
-## 本软件不在任何地方进行售卖,更没有所谓的付费版本,请勿听信任何人的话,并且该软件存在授权认证机制(免费提供)但不对外开放使用（并且仅限简体中文使用）下方是一个在Discord上尝试售卖20美元的人
+## 本软件不在任何地方进行售卖,更没有所谓的付费版本,请勿听信任何人的话,并且该软件存在授权认证机制(免费提供)但不对外开放使用（并且仅限简体中文使用）
 
-## This software is not sold anywhere, let alone a so-called paid version. Please don't listen to anyone. Moreover, the software has an authorization and certification mechanism (provided for free) but is not open to public use (and is only available in simplified Chinese) Below is a person who tried to sell it for US$20 on Discord
+## This software is not sold anywhere, let alone a so-called paid version. Please don't listen to anyone. Moreover, the software has an authorization and certification mechanism (provided for free) but is not open to public use (and is only available in simplified Chinese)
 
-<div align="left">
-    <img src="./Assets/16601da6-ab6b-4692-8ad1-e47f4f80cc30.png" height="300">
-</div>
-
-
-# 展示
 <div align="center">
     <img src="./Assets/client.png#pic_center" width="700">
 </div>
@@ -34,13 +28,12 @@
 - [x] 职业天赋切换: 自行录制点击职业天赋进行快速切换
 - [x] 自动副本任务: 基于OCR、模拟按键操作进行普通副本、大师N6循环任务
 - [x] 一键分解装备: 自动分解当前页符合筛选条件的紫色品质装备
-- [x] 自动切线刷BOSS: 自动顺序/倒序刷BOSS
+- [x] 自动切线刷BOSS: 自动顺序/倒序刷BOSS（支持神奇生物、精英怪、BOSS）
 - [x] 自动Rougelike模式: 自动执行限时活动Rougelike模式
 - [x] 订阅通知：支持企业微信、钉钉、飞书Lark、QQ、Onebot等协议的模块消息推送
+- [x] 自动采集: 支持多采集点采集（基于坐标采集，无需对齐参照物）
 
 ## 未来计划
-
-- [ ] 自动采集: 支持多采集点采集
 
 - [ ] 自动不稳定空间
 
